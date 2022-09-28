@@ -1,0 +1,4 @@
+day_task1
+employee_name
+employee_salary
+employee_age
